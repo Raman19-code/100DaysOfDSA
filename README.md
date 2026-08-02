@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -68,5 +70,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
