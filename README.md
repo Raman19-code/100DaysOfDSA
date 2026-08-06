@@ -44,6 +44,7 @@
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2413-smallest-even-multiple) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0190-reverse-bits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
