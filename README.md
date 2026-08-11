@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0219-contains-duplicate-ii) |
@@ -110,11 +111,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0443-string-compression) |
