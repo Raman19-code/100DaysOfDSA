@@ -156,4 +156,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
