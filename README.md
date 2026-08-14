@@ -129,11 +129,13 @@
 | [0443-string-compression](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
