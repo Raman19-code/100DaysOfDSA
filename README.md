@@ -48,6 +48,7 @@
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
@@ -181,6 +184,7 @@
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
