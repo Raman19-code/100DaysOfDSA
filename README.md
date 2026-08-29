@@ -69,11 +69,13 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
@@ -113,6 +115,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0387-first-unique-character-in-a-string) |
