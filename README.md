@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0414-third-maximum-number) |
@@ -59,6 +60,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0392-is-subsequence) |
