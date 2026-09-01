@@ -95,6 +95,7 @@
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
