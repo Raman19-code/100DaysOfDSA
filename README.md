@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0189-rotate-array) |
