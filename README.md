@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -106,6 +108,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
 |  |
