@@ -35,6 +35,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@
 | [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Number Theory
 |  |
 | ------- |
