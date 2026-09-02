@@ -33,6 +33,7 @@
 | [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1534-count-good-triplets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -218,6 +219,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
