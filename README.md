@@ -41,6 +41,7 @@
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
