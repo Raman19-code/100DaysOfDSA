@@ -51,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -104,6 +106,7 @@
 | [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
@@ -277,4 +280,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
