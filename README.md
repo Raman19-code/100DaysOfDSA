@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -140,6 +141,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
@@ -292,4 +294,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0202-happy-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
