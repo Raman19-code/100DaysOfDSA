@@ -37,6 +37,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1534-count-good-triplets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
@@ -124,6 +125,7 @@
 | [0213-house-robber-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Recursion
 |  |
@@ -205,6 +207,7 @@
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1768-merge-strings-alternately](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0680-valid-palindrome-ii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Divide and Conquer
 |  |
