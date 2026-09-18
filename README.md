@@ -42,6 +42,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -64,6 +65,7 @@
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -189,6 +191,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## String
 |  |
 | ------- |
