@@ -101,6 +101,7 @@
 | [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
