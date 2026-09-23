@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -133,6 +134,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0213-house-robber-ii) |
@@ -255,6 +257,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0191-number-of-1-bits) |
