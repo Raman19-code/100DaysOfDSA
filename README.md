@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
