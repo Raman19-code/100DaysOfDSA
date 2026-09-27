@@ -35,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0724-find-pivot-index) |
 | [2270-number-of-ways-to-split-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2270-number-of-ways-to-split-array) |
