@@ -253,6 +253,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -334,6 +335,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -356,4 +358,12 @@
 | ------- |
 | [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
