@@ -300,6 +300,7 @@
 | [0595-big-countries](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
