@@ -8,7 +8,7 @@ public:
             {
                 return true;
             }
-            mp[nums[i]]=i;
+            mp[nums[i]]++;
         }
         return false;
         
