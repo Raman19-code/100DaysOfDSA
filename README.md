@@ -297,6 +297,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0584-find-customer-referee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
 | ------- |
