@@ -179,6 +179,7 @@
 | [0162-find-peak-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -191,6 +192,7 @@
 | [0090-subsets-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -370,6 +372,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,4 +380,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
