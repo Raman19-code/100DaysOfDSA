@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
@@ -91,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -267,6 +269,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0680-valid-palindrome-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
