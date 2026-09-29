@@ -256,6 +256,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3498-reverse-degree-of-a-string) |
