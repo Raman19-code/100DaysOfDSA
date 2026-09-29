@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -205,6 +207,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
