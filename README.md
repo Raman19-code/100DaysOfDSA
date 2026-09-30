@@ -140,6 +140,7 @@
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
