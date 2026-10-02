@@ -56,6 +56,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -87,6 +88,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -260,6 +262,7 @@
 | [1768-merge-strings-alternately](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -303,6 +306,7 @@
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
