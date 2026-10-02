@@ -1,23 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        int temp=x;
         if(x<0)
         {
             return false;
         }
-        long long  ans=0;
-        while(x!=0)
+        int temp=x;
+        long long ans=0;
+        while(temp!=0)
         {
-            int digit=x%10;
-            if(ans<INT_MIN || ans>INT_MAX)
-            {
-                return false;
-            }
+            int digit=temp%10;
             ans=ans*10+digit;
-            x=x/10;
+            temp=temp/10;
         }
-        return ans==temp;
+        return x==ans;
         
     }
 };
