@@ -63,6 +63,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -312,6 +314,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
