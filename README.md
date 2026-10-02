@@ -48,6 +48,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
 | [1534-count-good-triplets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -140,6 +141,7 @@
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2119-a-number-after-a-double-reversal) |
@@ -437,9 +439,11 @@
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
