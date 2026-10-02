@@ -147,6 +147,7 @@
 | [0258-add-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
+| [0504-base-7](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
@@ -260,6 +261,7 @@
 | [0392-is-subsequence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0680-valid-palindrome-ii) |
