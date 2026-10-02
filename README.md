@@ -64,6 +64,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
