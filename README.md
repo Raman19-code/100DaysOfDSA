@@ -37,6 +37,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
