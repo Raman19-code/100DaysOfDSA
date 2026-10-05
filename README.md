@@ -57,6 +57,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -238,6 +239,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
@@ -482,4 +484,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
