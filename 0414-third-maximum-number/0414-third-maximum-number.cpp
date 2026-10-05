@@ -6,6 +6,8 @@ public:
         long long third=LLONG_MIN;
         for(int x:nums)
         {
+            if (x == first || x == second || x == third)
+                continue;
             if(x>first)
             {
                 third=second;
