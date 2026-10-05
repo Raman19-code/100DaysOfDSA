@@ -47,6 +47,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -126,6 +127,7 @@
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
@@ -237,6 +239,7 @@
 | [0414-third-maximum-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
