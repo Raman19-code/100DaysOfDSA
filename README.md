@@ -105,6 +105,7 @@
 | [0015-3sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
@@ -444,6 +446,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -463,4 +466,16 @@
 | ------- |
 | [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1952-three-divisors) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
