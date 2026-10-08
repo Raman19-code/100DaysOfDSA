@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0090-subsets-ii) |
@@ -112,6 +113,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0217-contains-duplicate) |
@@ -494,5 +497,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
