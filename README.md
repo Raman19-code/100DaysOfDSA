@@ -69,6 +69,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
@@ -102,6 +103,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
@@ -261,6 +263,7 @@
 | [0567-permutation-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
