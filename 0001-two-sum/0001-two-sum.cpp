@@ -7,7 +7,7 @@ public:
             int more=target-nums[i];
             if(mp.find(more)!=mp.end())
             {
-                return {mp[more],i};
+                return{mp[more],i};
             }
             mp[nums[i]]=i;
         }
