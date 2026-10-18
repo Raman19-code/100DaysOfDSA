@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
@@ -445,6 +446,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0090-subsets-ii) |
 ## Tree
