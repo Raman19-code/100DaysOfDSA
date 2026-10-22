@@ -62,6 +62,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1920-build-array-from-permutation) |
@@ -392,6 +393,7 @@
 | [0525-contiguous-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2270-number-of-ways-to-split-array) |
 ## Queue
 |  |
