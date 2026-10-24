@@ -197,6 +197,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -548,4 +549,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
