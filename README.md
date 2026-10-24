@@ -80,6 +80,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3978-unique-middle-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3843-first-element-with-unique-frequency](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Raman19-code/100DaysOfDSA/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
