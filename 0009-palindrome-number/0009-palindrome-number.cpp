@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        int temp=x;
-        if(temp<0)
+        if(x<0)
         {
             return false;
         }
+        int num=x;
         long long ans=0;
-        while(temp!=0)
+        while(num!=0)
         {
-            int digit=temp%10;
+            int digit=num%10;
             ans=ans*10+digit;
-            temp=temp/10;
+            num=num/10;
         }
         return x==ans;
         
