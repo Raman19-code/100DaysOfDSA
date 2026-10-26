@@ -59,6 +59,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1390-four-divisors) |
+| [1480-running-sum-of-1d-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -401,6 +402,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2270-number-of-ways-to-split-array) |
 ## Queue
