@@ -42,6 +42,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0525-contiguous-array) |
@@ -172,6 +173,7 @@
 | [0202-happy-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0507-perfect-number) |
