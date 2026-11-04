@@ -397,6 +397,7 @@
 | [1693-daily-leads-and-partners](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Prefix Sum
 |  |
