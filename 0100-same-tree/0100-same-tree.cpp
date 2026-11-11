@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-bool solve(TreeNode*p,TreeNode*q){
-if(p==NULL && q==NULL)
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        if(p==NULL && q==NULL)
         {
             return true;
         }
@@ -20,25 +20,10 @@ if(p==NULL && q==NULL)
         {
             return false;
         }
-        if(p->val==q->val)
-        {
-            bool lh=solve(p->left,q->left);
-            bool rh=(solve(p->right,q->right));
-        if(lh==true && rh==true)
-        {
-            return true;
-        }
-        else
+        if(p->val!=q->val)
         {
             return false;
         }
-        }
-        return false;
-}
-
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        bool ans=solve(p,q);
-        return ans;
-        
+        return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
     }
 };
