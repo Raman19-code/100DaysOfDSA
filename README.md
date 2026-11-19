@@ -510,6 +510,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -524,6 +525,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -586,4 +588,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
