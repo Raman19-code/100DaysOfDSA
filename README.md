@@ -469,6 +469,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -479,6 +480,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0404-sum-of-left-leaves) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
@@ -514,6 +516,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -531,6 +534,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -599,4 +603,5 @@
 | [0098-validate-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
