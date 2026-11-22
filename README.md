@@ -57,6 +57,7 @@
 | [0867-transpose-matrix](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -341,6 +342,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Raman19-code/100DaysOfDSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Greedy
@@ -452,6 +454,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0316-remove-duplicate-letters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -520,6 +523,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -539,6 +543,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -608,4 +613,5 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Raman19-code/100DaysOfDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raman19-code/100DaysOfDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
